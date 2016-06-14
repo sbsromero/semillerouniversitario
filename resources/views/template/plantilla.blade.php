@@ -38,10 +38,10 @@
 		<div class="zonaInformacion">
 			<section class="container">
 				<div class="row">
-					<div class="col-md-3">
+					<div class="col-xs-3 col-md-3">
 						<img  src="{{asset('/imagenes/LogoSemilleroUniversitario.png')}}">
 					</div>
-					<div class="col-xs-6 col-sm-3">
+					<div class="col-xs-3 col-sm-3">
 						<span class="glyphicon glyphicon-map-marker" aria-hidden="true">
 						</span>
 						Carrera 15 Calle 12 Norte
@@ -50,7 +50,7 @@
 						<br>
 						Piso 1 Bloque Ciencias Básicas
 					</div>
-					<div class="col-xs-6 col-sm-3">
+					<div class="col-xs-3 col-sm-3">
 						<span class="glyphicon glyphicon-phone-alt" aria-hidden="true">
 						</span>
 						Teléfonos (6) 7359334 y (6) 7359300 Ext 975
@@ -63,7 +63,7 @@
 						</span>
 						WhatsApp 321 851 4205
 					</div>
-					<div class="col-xs-6 col-sm-3">
+					<div class="col-xs-3 col-sm-3">
 						<span class="glyphicon glyphicon-envelope" aria-hidden="true">
 							semillero@uniquindio.edu.co
 						</span>
