@@ -39,7 +39,7 @@
 			<section class="container">
 				<div class="row">
 					<div class="col-md-3">
-						<img  src="{{asset('/imagenes/logoSemilleroUniversitario.png')}}">
+						<img  src="{{asset('/imagenes/LogoSemilleroUniversitario.png')}}">
 					</div>
 					<div class="col-xs-6 col-sm-3">
 						<span class="glyphicon glyphicon-map-marker" aria-hidden="true">
